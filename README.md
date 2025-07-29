@@ -13,9 +13,9 @@ You can access the project locally at:
 ---
 ## 🧰 Technologies Used
 
-- HTML/CSS/JavaScript
+- HTML
 - PHP
-- MySQL (via XAMPP or similar stack)
+- MySQL (via XAMPP)
 
 ---
 
@@ -27,18 +27,23 @@ You can access the project locally at:
 4. The number next to each slider updates as you slide.
 5. When you're done, click the "Save Post" button.
 6. The values will be saved to your MySQL database (in the poses table).
-7. You can view or extend functionality to load, run, or delete saved poses.
 
 ---
 
 ## 💡 Features
-✔️ Real-time control of 6 motors via sliders
-✔️ Dynamic display of slider values
-✔️ Simple, clean, user-friendly web interface
-✔️ Saves motor positions (poses) to MySQL database
-✔️ Table layout ready for displaying and managing saved poses
-✔️ Easy to extend: add "Run", "Edit", or "Delete" buttons
-✔️ Fully local: runs on XAMPP with no internet required
+✔️ Real-time control of 6 motors via sliders.
+
+✔️ Dynamic display of slider values.
+
+✔️ Simple, clean, user-friendly web interface.
+
+✔️ Saves motor positions (poses) to MySQL database.
+
+✔️ Table layout ready for displaying and managing saved poses.
+
+✔️ Easy to extend: add "Run", "Edit", or "Delete" buttons.
+
+✔️ Fully local: runs on XAMPP with no internet required.
 
 
 ## 📸 Preview
