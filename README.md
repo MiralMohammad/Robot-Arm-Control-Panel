@@ -48,4 +48,4 @@ You can access the project locally at:
 
 ## 📸 Preview
 
-> ![Robot Arm Control Panel](./Robot Control Panel.png)  
+![Robot Control Panel](Robot%20Control%20Panel.png)
