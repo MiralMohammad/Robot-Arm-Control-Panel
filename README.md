@@ -9,9 +9,18 @@ This project is a web-based control panel that allows users to control a **6-mot
 You can access the project locally at:  
 **[http://localhost/index.php](http://localhost/index.php)**
 
+
+---
+## 🧰 Technologies Used
+
+- HTML/CSS/JavaScript
+- PHP
+- MySQL (via XAMPP or similar stack)
+
+---
+
 ## 🕹️ How to Use
 
-```text
 1. Open your browser and go to http://localhost/index.php
 2. You'll see 6 sliders labeled Motor 1 to Motor 6.
 3. Drag each slider to set the motor angle (0 to 180).
@@ -20,7 +29,9 @@ You can access the project locally at:
 6. The values will be saved to your MySQL database (in the poses table).
 7. You can view or extend functionality to load, run, or delete saved poses.
 
+---
 
+## 💡 Features
 ✔️ Real-time control of 6 motors via sliders
 ✔️ Dynamic display of slider values
 ✔️ Simple, clean, user-friendly web interface
@@ -28,3 +39,8 @@ You can access the project locally at:
 ✔️ Table layout ready for displaying and managing saved poses
 ✔️ Easy to extend: add "Run", "Edit", or "Delete" buttons
 ✔️ Fully local: runs on XAMPP with no internet required
+
+
+## 📸 Preview
+
+> ![Robot Arm](./Robot Control Panel.png)  
